@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Unlock Premium Content</title>
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #4e73df, #1cc88a);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 40px;
+    border-radius: 12px;
+    text-align: center;
+    width: 90%;
+    max-width: 400px;
+}
+
+h1 {
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+button {
+    background-color: #f6c23e;
+    border: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #dda20a;
+}
+
+.footer {
+    margin-top: 20px;
+    font-size: 12px;
+    opacity: 0.8;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <h1>🔒 Unlock Premium Content</h1>
+    <p>Complete a quick offer to access exclusive content instantly.</p>
+
+    <!-- Replace # with your OGAds Content Locker Link -->
+    <button onclick="window.location.href='#'">
+        Unlock Now
+    </button>
+
+    <div class="footer">
+        100% Free • Instant Access • Secure
+    </div>
+</div>
+
+<!-- If OGAds gives you a locker script, paste it here -->
+
+</body>
+</html>
